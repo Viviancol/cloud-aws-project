@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [11/07/2023]
-Empresa: Abstergo Industries Pharmaceutical
-Responsável: [Vívian Oliveira]
+- Data: [11/07/2023]
+- Empresa: Abstergo Industries Pharmaceutical
+- Responsável: [Vívian Oliveira]
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa [Abstergo Industries Pharmaceutical], realizado por [Vívian Oliveira]. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
