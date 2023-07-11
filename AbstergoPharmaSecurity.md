@@ -11,22 +11,26 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
 
 Medida 1: 
-- [Descrição de caso de uso]
+- [IAM - AWS Identity and Access Management (gratuíto) - Irá gerenciar com segurança as identidades e o acesso a serviços e recursos da AWS.]
 
 Medida 2: 
-- [Descrição de caso de uso]
+- [AWS Key Management Service - Cria chaves criptografadas para proteger serviços e aplicações integradas.]
 
 Medida 3: 
-- [Descrição de caso de uso]
+- [Amazon Inspector - Garante que as instâncias EC2 estejam sempre atualizadas e seguras, para que não haja vulnerabilidades de software e exposição não intencional da rede.]
 
 
 ## Conclusão
-A implementação de ferramentas na empresa *[Abstergo Industries Pharmaceutica] tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa *[Abstergo Industries Pharmaceutica] tem como esperado [proteger os acessos, aplicações e servicços da conta AWS]*, o que aumentará a segurança e a não vulnerabilidade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+[Visão Geral das Ferramentas]
+- [IAM - AWS Identity and Access Management - https://aws.amazon.com/pt/iam/]
+- [AWS Key Management Service - https://aws.amazon.com/pt/kms]
+- [Amazon Inspector - https://aws.amazon.com/pt/inspector/]
 
+  
 Assinatura do Responsável pelo Projeto:
 
 [Vívian Oliveira]
