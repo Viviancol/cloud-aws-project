@@ -33,8 +33,11 @@ A implementação de ferramentas na empresa *[Abstergo Industries Pharmaceutical
 ## Anexos
 
 [Visão Geral das Ferramentas:]
+
 [EC2 - Amazon Elastic Compute Cloud - https://aws.amazon.com/pt/ec2/]
+
 [Amazon S3 - Simple Storage Service - https://aws.amazon.com/pt/s3/]
+
 [Amazon Redshift - https://aws.amazon.com/pt/redshift/]
 
 
